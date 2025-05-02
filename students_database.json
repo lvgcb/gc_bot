@@ -1,0 +1,18 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John",
+        "surname": "Doe",
+        "age": 15,
+        "school": "High School #123",
+        "tariff": "Standard",
+        "mentor": "Jane Smith",
+        "phone": "+1234567890",
+        "telegram_id": "johndoe123",
+        "parent_name": "Mary Doe",
+        "parent_phone": "+0987654321",
+        "status": "Active"
+      }
+    ]
+  }                     
